@@ -72,10 +72,11 @@ header{
     justify-content: center;
     padding-top: 100px;
     height: 750px;
-    background-color: #31344e;
-    background-image: url();
+    background: #31344e;
+    background-image: url(https://instapik.ru/wp-content/uploads/2020/08/dark-background.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+
 }
 
 .header__logo img{
